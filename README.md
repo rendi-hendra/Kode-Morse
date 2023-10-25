@@ -7,7 +7,7 @@ npm install --save sandi-morse
 ## Usage
 
 ```js
-import { encode, decode } from "./app.js";
+import { encode, decode } from "sandi-morse";
 
 // Sandi Morse ke Alfabet
 const sandi_morse = encode(".... . .-.. .-.. --- * .-- --- .-. .-.. -..");
