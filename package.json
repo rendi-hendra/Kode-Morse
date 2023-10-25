@@ -1,16 +1,21 @@
 {
-  "name": "latihan-1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/main.js",
+  "name": "sandi-morse",
+  "version": "1.0.6",
+  "description": "Sandi Morse",
+  "main": "src/app.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "sandi",
+    "sandi-morse",
+    "morse",
+    "morse-converter"
+  ],
+  "author": "Rendi Hendra Syahputra",
   "license": "ISC",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
+  "repository": {
+    "url": "https://github.com/babe25/Kode-Morse"
   }
 }
